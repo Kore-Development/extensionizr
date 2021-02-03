@@ -3,9 +3,10 @@
 
 
 
-Why does this exist? 
+<h3>Why does this exist?</h3><br>
 Firstly, this is just my copy of the [original code](https://github.com/altryne/extensionizr), made so that I can tweak minor things (mainly appearance-wise).
-This isn't some huge upgrade to the original utility or anything like that. 
+This isn't some huge upgrade to the original utility or anything like that. <br>
+The original author stated:<br>
 `Because I got super tired creating the file structure for a new extension over and over again. `
 `Extensionizr will be always updated with the latest chrome manifest changes.`
 `In addition, I wanted to create a client-side only tool. Extensionizr doesn't use server side code! Don't believe me? Checkout the github repo.`
