@@ -1,17 +1,22 @@
+This is simply a fork I created for the purpose of making minor tweaks to the code (mainly appearance stuff). See the original README below for details on the original project, license info, etc.
 
+/ / / / / / / / Original readme contents / / / / / / / /
+[Extensionizr.com](http://extensionizr.com)!
+=============
+[![extensionizr](https://raw.github.com/altryne/extensionizr/master/img/bp_logo.png)](http://extensionizr.com)
 
+Build yourself a chrome extension in 15sec. Check it out [here](http://extensionizr.com)
+-------------------------
 
+Another *izr? When will this stop
+---------------------------------
+Extensionizr is a simple way to jump start your chrome extension development. Just select the type of extension you want, choose permissions and you're off.
 
-
-<h3>Why does this exist?</h3><br>
-Firstly, this is just my fork of the <a href="https://github.com/altryne/extensionizr">original code</a>, made so that I can tweak minor things (mainly appearance-wise).
-This isn't some huge upgrade to the original utility or anything like that. <br>
-The original author stated:<br>
-> Because I got super tired creating the file structure for a new extension over and over again. 
-> Extensionizr will be always updated with the latest chrome manifest changes.
-> In addition, I wanted to create a client-side only tool. Extensionizr doesn't use server side code! Don't believe me? Checkout the github repo.
-
-As for this fork of the code, I was going to write my own extension template generator, but figured someone would have already done it, and had likely done a better job than I could have. Fortunately, I was right! 
+Why does this exist?
+--------------------
+Because I got super tired creating the file structure for a new extension over and over again. 
+Extensionizr will be always updated with the latest chrome manifest changes. 
+In addition, I wanted to create a client-side only tool. Extensionizr doesn't use server side code! Don't believe me? Checkout the github repo.
 
 Based on open source
 --------------------
