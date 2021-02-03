@@ -1,4 +1,5 @@
-This is simply a fork I created for the purpose of making minor tweaks to the code (mainly appearance stuff). See the original README below for details on the original project, license info, etc.
+This is simply a fork I created for the purpose of making minor tweaks to the code (mainly appearance stuff). 
+Please see the original README below for details on the original project, license info, etc.
 
 / / / / / / / / Original readme contents / / / / / / / /
 
