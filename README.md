@@ -4,7 +4,7 @@
 
 
 <h3>Why does this exist?</h3><br>
-Firstly, this is just my copy of the [original code](https://github.com/altryne/extensionizr), made so that I can tweak minor things (mainly appearance-wise).
+Firstly, this is just my fork of the <a href="https://github.com/altryne/extensionizr">original code</a>, made so that I can tweak minor things (mainly appearance-wise).
 This isn't some huge upgrade to the original utility or anything like that. <br>
 The original author stated:<br>
 `Because I got super tired creating the file structure for a new extension over and over again. `
