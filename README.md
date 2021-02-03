@@ -1,6 +1,6 @@
 This is simply a fork I created for the purpose of making minor tweaks to the code (mainly appearance stuff). 
 
-I was originally going to create my own extension template generator, but luckily I was correct in assuming someone else had already done it, and done it better than I probably could have! 
+I was originally going to create my own extension template generator, but figured someone else would have already done it, and done it better than I probably could have! 
 
 It's not the most complex thing I've worked with lately, but [altryne/Alex Wolkov](https://github.com/altryne) has my thanks for not only having a live instance of the generator, but also for making the code available. Support/use his version! :)
 
