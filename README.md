@@ -1,5 +1,7 @@
 This is simply a fork I created for the purpose of making minor tweaks to the code (mainly appearance stuff). 
-Please see the original README below for details on the original project, and support that version!
+I was originally going to create my own extension template generator, but luckily I was correct in assuming someone else had already done it, and done it better than I probably could have!
+
+Please see the original README below for details on the original project, and support that version :)
 
 / / / / / / / / Original readme contents / / / / / / / /
 
