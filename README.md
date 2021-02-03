@@ -1,5 +1,5 @@
 This is simply a fork I created for the purpose of making minor tweaks to the code (mainly appearance stuff). 
-Please see the original README below for details on the original project, license info, etc.
+Please see the original README below for details on the original project, and support that version!
 
 / / / / / / / / Original readme contents / / / / / / / /
 
