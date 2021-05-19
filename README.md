@@ -1,3 +1,5 @@
+Demo (unofficial, last updated 5/18/2021): [extensionizr.pqtato.pw](https://extensionizr.pqtato.pw)
+
 This is simply a fork I created for the purpose of making minor tweaks to the code (mainly appearance stuff). 
 
 I was originally going to create my own extension template generator, but figured someone else would have already done it, and done it better than I probably could have! 
